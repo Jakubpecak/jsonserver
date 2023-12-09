@@ -48,6 +48,86 @@
       "userId": 1,
       "createdAt": 1701625233715,
       "id": 1
+    },
+    {
+      "title": "Kupić produkty spożywcze",
+      "description": "Kupić chleb, mleko, jajka i warzywa.",
+      "completed": false,
+      "userId": 1,
+      "createdAt": 1701625233715,
+      "id": 2
+    },
+    {
+      "title": "Naprawić rower",
+      "description": "Wymienić dętkę i naprawić hamulce.",
+      "completed": false,
+      "userId": 1,
+      "createdAt": 1701625233720,
+      "id": 3
+    },
+    {
+      "title": "Przeczytać nową książkę",
+      "description": "Kupić i przeczytać najnowszą powieść fantasy.",
+      "completed": false,
+      "userId": 2,
+      "createdAt": 1701625233725,
+      "id": 4
+    },
+    {
+      "title": "Napisać list motywacyjny",
+      "description": "Przygotować list motywacyjny do pracy.",
+      "completed": false,
+      "userId": 2,
+      "createdAt": 1701625233730,
+      "id": 5
+    },
+    {
+      "title": "Uczyć się programowania",
+      "description": "Przećwiczyć programowanie w języku JavaScript.",
+      "completed": false,
+      "userId": 3,
+      "createdAt": 1701625233735,
+      "id": 6
+    },
+    {
+      "title": "Podlać kwiaty",
+      "description": "Podlać wszystkie kwiaty w ogrodzie.",
+      "completed": false,
+      "userId": 3,
+      "createdAt": 1701625233740,
+      "id": 7
+    },
+    {
+      "title": "Obejrzeć nowy film",
+      "description": "Obejrzeć premierowy film w kinie.",
+      "completed": false,
+      "userId": 4,
+      "createdAt": 1701625233745,
+      "id": 8
+    },
+    {
+      "title": "Zorganizować przyjęcie urodzinowe",
+      "description": "Zaprosić przyjaciół na urodziny.",
+      "completed": false,
+      "userId": 4,
+      "createdAt": 1701625233750,
+      "id": 9
+    },
+    {
+      "title": "Zrobić porządek w domu",
+      "description": "Posprzątać pokój i schowki.",
+      "completed": false,
+      "userId": 5,
+      "createdAt": 1701625233755,
+      "id": 10
+    },
+    {
+      "title": "Przygotować prezent na święta",
+      "description": "Wybrać idealny prezent dla bliskich na nadchodzące święta.",
+      "completed": false,
+      "userId": 5,
+      "createdAt": 1701625233760,
+      "id": 11
     }
   ],
   "poland": [
