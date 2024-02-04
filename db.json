@@ -292,15 +292,6 @@
       ]
     }
   ],
-  "history": [
-    {
-      "title": "test",
-      "description": "Test todo",
-      "completed": false,
-      "userId": 1,
-      "createdAt": 1701525605196,
-      "id": 51
-    }
-  ],
+  "history": [],
   "message": []
 }
