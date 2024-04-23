@@ -14,7 +14,6 @@ server.get('/echo', (req, res) => {
   res.jsonp(req.query)
 })
 
-
 const TOKENS = {
   /* User 1 - Admin */
   'Bearer f1r57u53rv4l1d4dm1n70k3n_2': 1,
