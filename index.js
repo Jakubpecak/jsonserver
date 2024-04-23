@@ -46,7 +46,6 @@ server.post('/login', (req, res, next) => {
   })
 })
 
-
 server.use((req, res, next) => {
   if (['PUT', 'DELETE'].includes(req.method)) {
     const token = req.get('Authorization').replace('Bearer ', '')
